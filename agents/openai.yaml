@@ -1,0 +1,4 @@
+interface:
+  display_name: "KiCad Circuit Design"
+  short_description: "Create readable schematics and checked PCB designs"
+  default_prompt: "Use $kicad-design to create a KiCad circuit from my requirements, with a readable wired schematic and verified PCB layout."
